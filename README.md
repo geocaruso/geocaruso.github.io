@@ -1,2 +1,2 @@
 # geocaruso.github.io
-Tress Map of Namur for Ramur Asbl
+Trees Map of Namur for Ramur Asbl
